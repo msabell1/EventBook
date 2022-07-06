@@ -1,0 +1,22 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Smith",
+        "about": "Fell in love with Pocahantas",
+        "images":[],
+        "messages": [],
+        "events": [],
+        "personalImage": "",
+        "email": "jmith_1@mail.com"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Smith II",
+        "about": "Fell in love with Pocahantas again",
+        "images":[],
+        "messages": [],
+        "events": [],
+        "personalImage": "",
+        "email": "jmith_2@mail.com"
+    }
+]
