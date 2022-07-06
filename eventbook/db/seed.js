@@ -1,8 +1,8 @@
 const Event = require('../models/Event')
 const Guest = require('../models/Guest')
 
-const eventData = require('./wineSeed.json')
-const guestData = require('./dishSeed.json')
+const eventData = require('./eventSeed.json')
+const guestData = require('./guestSeed.json')
 
 Event.deleteMany({}).then(() => {
     Event.create(eventData).then(eventList => {
